@@ -39,8 +39,8 @@ Keep learning, building and architecting the future of cognitive cloud systems.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavkannoji&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkannoji&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhavaaa&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavaaa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -48,9 +48,8 @@ Keep learning, building and architecting the future of cognitive cloud systems.
 ## 🔥 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavkannoji&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavaaa&theme=tokyo-night" />
 </p>
-
 ---
 
 ## 🚀 Highlight Projects
