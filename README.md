@@ -1,17 +1,78 @@
-<h1 align="center">Hi 👋, I'm vaibhav</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<h1 align="center">Vaibhav Kannoji</h1>
+<h3 align="center">Cloud & AI Infrastructure Engineer | Autonomous Systems Builder</h3>
 
-- 🔭 I’m currently working on **cloud**
-
-- 🌱 I’m currently learning **linux fundamentals**
-
-- 👯 I’m looking to collaborate on **app development in java, cloud architecture**
-
-- 📫 How to reach me **vaibhavkannoji@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Keep learning, building and architecting the future of cognitive cloud systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+- 🚀 Building **Cognitive Stability Aware – Autonomous Cloud Infrastructure (CSA-ACI)**
+- ☁️ AWS Certified Solutions Architect – Associate
+- 🧠 Focused on AI Infrastructure, Kubernetes Controllers & Control Systems
+- 🐧 Currently mastering Linux Internals
+- 🏗️ Interested in scalable distributed systems & GPU orchestration
+- 📍 India
+
+---
+
+## 🏗️ Current Engineering Focus
+
+- Kubernetes Custom Controllers
+- Infrastructure Control Theory
+- AI Workload Orchestration
+- Cloud Governance Systems
+- Systems Programming Fundamentals
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,linux,git,bash,java,python,postgres,c,cpp,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhavkannoji&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkannoji&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavkannoji&theme=tokyo-night" />
+</p>
+
+---
+
+## 🚀 Highlight Projects
+
+### 🔹 CSA-ACI
+Intent-governed autonomous cloud system preventing oscillation & instability.
+
+### 🔹 Kubernetes Auto Scaling Research
+Control-theory driven scaling experiments on AWS EKS.
+
+### 🔹 Cloud Native Architecture Projects
+Production-grade scalable application architectures.
+
+---
+
+## 📫 Connect With Me
+
+- 📧 vaibhavkannoji@gmail.com
+- 💼 LinkedIn: (add your link)
+
+---
+
+<p align="center">
+“Infrastructure should not react. It should reason.”
+</p>
