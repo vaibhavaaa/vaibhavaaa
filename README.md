@@ -36,12 +36,13 @@ Keep learning, building and architecting the future of cognitive cloud systems.
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Engineering Direction
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavaaa&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavaaa&layout=compact&theme=tokyonight" />
-</p>
+- Autonomous Cloud Infrastructure
+- Kubernetes Controllers
+- AI Workload Orchestration
+- Linux Systems Engineering
+- Control-Theory Driven Scaling
 
 ---
 
